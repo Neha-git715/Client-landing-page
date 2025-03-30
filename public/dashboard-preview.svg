@@ -1,0 +1,28 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="800" rx="12" fill="#F8FAFC"/>
+  
+  <!-- Sidebar -->
+  <rect x="0" y="0" width="250" height="800" fill="white"/>
+  <rect x="20" y="20" width="210" height="40" rx="6" fill="#F1F5F9"/>
+  <rect x="20" y="80" width="210" height="24" rx="4" fill="#E2E8F0"/>
+  <rect x="20" y="120" width="210" height="24" rx="4" fill="#E2E8F0"/>
+  <rect x="20" y="160" width="210" height="24" rx="4" fill="#E2E8F0"/>
+  
+  <!-- Main Content -->
+  <rect x="290" y="20" width="880" height="60" rx="8" fill="white"/>
+  <rect x="290" y="100" width="420" height="300" rx="8" fill="white"/>
+  <rect x="730" y="100" width="440" height="300" rx="8" fill="white"/>
+  <rect x="290" y="420" width="880" height="200" rx="8" fill="white"/>
+  
+  <!-- Charts and Graphs -->
+  <path d="M320 350 L420 280 L520 320 L620 250" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="420" cy="280" r="4" fill="#4F46E5"/>
+  <circle cx="520" cy="320" r="4" fill="#4F46E5"/>
+  
+  <!-- Table -->
+  <rect x="310" y="440" width="840" height="1" fill="#E2E8F0"/>
+  <rect x="310" y="480" width="840" height="1" fill="#E2E8F0"/>
+  <rect x="310" y="520" width="840" height="1" fill="#E2E8F0"/>
+  <rect x="310" y="560" width="840" height="1" fill="#E2E8F0"/>
+</svg> 

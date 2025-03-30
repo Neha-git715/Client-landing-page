@@ -1,5 +1,5 @@
-# [Client Name] Landing Page  
-**Live Demo**: [Netlify Link]  
+# YoGo Landing Page  
+**Live Demo**: https://amazing-cucurucho-be1398.netlify.app/  
 
 ## 🚀 Tech Stack  
 - React + Vite  
